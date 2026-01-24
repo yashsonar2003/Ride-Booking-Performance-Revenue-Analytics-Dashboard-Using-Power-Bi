@@ -25,30 +25,30 @@ This dashboard helps stakeholders identify **Revenue Drivers, Operational Bottle
 The dataset represents ride bookings across **Multiple Cities, Vehicle Types, Payment Methods, and Booking Statuses**.
 
 # # Columns Name(Clean Data):
-- booking_id
-- customer_id  
-- city  
-- vehicle_type  
-- trip_distance_km
-- trip_duration_min
-- base_fare
-- distance_fare
-- total_fare
-- Fare_Category
-- payment_method
-- booking_status (Completed / Cancelled / Customer_Cancelled / Driver_Cancelled)
-- driver_id
-- driver_rating
-- customer_rating
-- surge_applied
-- discount_applied
-- booking_date
-- year
-- month_name
-- month_number
-- booking_hour
-- is_weekend
-- cancellation_reason
+1) booking_id
+2) customer_id
+3) city
+4) vehicle_type
+5) trip_distance_km
+6) trip_duration_min
+7) base_fare
+8) distance_fare
+9) total_fare
+10) Fare_Category
+11) payment_method
+12) booking_status (Completed / Cancelled / Customer_Cancelled / Driver_Cancelled)
+13) driver_id
+14) driver_rating
+15) customer_rating
+16) surge_applied
+17) discount_applied
+18) booking_date
+19) year
+20) month_name
+21) month_number
+22) booking_hour
+23) is_weekend
+24) cancellation_reason
 
 -----
 
@@ -92,6 +92,14 @@ The dataset represents ride bookings across **Multiple Cities, Vehicle Types, Pa
 
 -----
 
+# Dashboard Preview:
+![Dashboard_Screenshot](1_Executive_Overview.png)
+![Dashboard Screenshot](2_City_&_Vehicle_Performance.png)
+![Dashboard Screenshot](3_Cancellation_Analysis.png)
+![Dashboard Screenshot](4_Customer_Behavior.png)
+
+-----
+
 # Key Learnings:-
 - Hands-on experience with **Large-Scale Datasets (200K+ rows)**.
 - Practical understanding of **Power Query Data Cleaning**.
@@ -110,7 +118,16 @@ Ride Booking Performance & Revenue Analytics Dashboard
 - "Ride Booking Revenue & Operations Dashboard.pdf": PDF Of Dashboard.
 - "README.md": Project Documentation.
 
+-----
+
+# Key Outcome:-
 
 
+
+
+-----
+# Author:-
+**Yash Sonar**  
+BBA Student | Aspiring Data Analyst
 
 
