@@ -3,7 +3,7 @@
 # Project Summary:-
 This project is an End-to-End Power BI Analytics solution built on a 200,000+ row raw ride-booking dataset, designed to simulate a real-world ride-hailing business environment (similar to Uber/Ola).
 
-The analysis focuses on **Revenue Performance, Operational Efficiency, Ride Cancellations, and CUstomer Behavior** using interactive Power BI dashboards.
+The analysis focuses on **Revenue Performance, Operational Efficiency, Ride Cancellations, and Customer Behavior** using interactive Power BI dashboards.
 
 The project covers the complete analytics lifecycle:
 - Raw data understanding & cleaning.
@@ -15,12 +15,14 @@ This dashboard helps stakeholders identify **Revenue Drivers, Operational Bottle
 
 -----
 
-# Dataset Description (Clean Data):-
+# Dataset Description (After Cleaning):-
 
 - Total Rows: **200,000+**
-- Total Columns: **20**
+- Total Columns: **24**
 - Data Granularity: **Individual Ride-Level Transactions**
-- Data Type: **Raw Data ("Ride_Booking_Raw.csv") containing missing values, duplicates, and inconsistent formats**.
+- Original Data Source: **Raw CSV ("Ride_Booking_Raw.csv")**
+- Data Processing: Cleaned and transformed using Power Query.
+
 
 The dataset represents ride bookings across **Multiple Cities, Vehicle Types, Payment Methods, and Booking Statuses**.
 
@@ -56,7 +58,7 @@ The dataset represents ride bookings across **Multiple Cities, Vehicle Types, Pa
 **Power BI**
 - **Power Query** (Data Cleaning & Transformation).
 - **DAX** (KPIs & Measures).
-- **Star Schema Data Modeling**.
+- **Optimized Data Modeling for Analytical Performance**.
 - **CSV Dataset (Raw Source Data)**.
 - **Data Visualization**.
 
