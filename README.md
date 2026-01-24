@@ -93,10 +93,10 @@ The dataset represents ride bookings across **Multiple Cities, Vehicle Types, Pa
 -----
 
 # Dashboard Preview:
-![Dashboard_Screenshot](1_Executive_Overview.png)
-![Dashboard Screenshot](2_City_&_Vehicle_Performance.png)
-![Dashboard Screenshot](3_Cancellation_Analysis.png)
-![Dashboard Screenshot](4_Customer_Behavior.png)
+![Ride-Booking-Performance-Revenue-Analytics-Dashboard/Analysis/Dashboard_Screenshot](1_Executive_Overview.png)
+![Ride-Booking-Performance-Revenue-Analytics-Dashboard/Analysis/Dashboard_Screenshot](2_City_&_Vehicle_Performance.png)
+![Ride-Booking-Performance-Revenue-Analytics-Dashboard/Analysis/Dashboard_Screenshot](3_Cancellation_Analysis.png)
+![Ride-Booking-Performance-Revenue-Analytics-Dashboard/Analysis/Dashboard_Screenshot](4_Customer_Behavior.png)
 
 -----
 
@@ -121,6 +121,8 @@ Ride Booking Performance & Revenue Analytics Dashboard
 -----
 
 # Key Outcome:-
+
+
 
 
 
