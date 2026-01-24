@@ -93,10 +93,10 @@ The dataset represents ride bookings across **Multiple Cities, Vehicle Types, Pa
 -----
 
 # Dashboard Preview:
-![Ride-Booking-Performance-Revenue-Analytics-Dashboard/Analysis/Dashboard_Screenshot](1_Executive_Overview.png)
-![Ride-Booking-Performance-Revenue-Analytics-Dashboard/Analysis/Dashboard_Screenshot](2_City_&_Vehicle_Performance.png)
-![Ride-Booking-Performance-Revenue-Analytics-Dashboard/Analysis/Dashboard_Screenshot](3_Cancellation_Analysis.png)
-![Ride-Booking-Performance-Revenue-Analytics-Dashboard/Analysis/Dashboard_Screenshot](4_Customer_Behavior.png)
+![Executive Overview](Analysis/Dashboard_Screenshot/1_Executive_Overview.png)
+![City_&_Vehicle_Performance](Analysis/Dashboard_Screenshot/2_City_&_Vehicle_Performance.png)
+![Cancellation_Analysis](Analysis/Dashboard_Screenshot/3_Cancellation_Analysis.png)
+![Customer_Behavior](Analysis/Dashboard_Screenshot/4_Customer_Behavior.png)
 
 -----
 
@@ -121,15 +121,13 @@ Ride Booking Performance & Revenue Analytics Dashboard
 -----
 
 # Key Outcome:-
-
-
-
-
-
+- Built a **fully interactive Power BI Dashboard**.
+- Delivered **Clear Business Insights** for revenue growth and cancellation reduction.
 
 -----
+
 # Author:-
 **Yash Sonar**  
 BBA Student | Aspiring Data Analyst
 
-
+-----
