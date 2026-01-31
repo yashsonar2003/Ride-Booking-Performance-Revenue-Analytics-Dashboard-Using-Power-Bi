@@ -26,7 +26,7 @@ This dashboard helps stakeholders identify **Revenue Drivers, Operational Bottle
 
 The dataset represents ride bookings across **Multiple Cities, Vehicle Types, Payment Methods, and Booking Statuses**.
 
-# Columns Name(Clean Data):
+# Columns Name (Clean Data):
 1) booking_id
 2) customer_id
 3) city
